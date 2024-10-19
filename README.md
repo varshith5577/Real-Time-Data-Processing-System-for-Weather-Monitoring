@@ -33,4 +33,4 @@ This system retrieves real-time weather data from the OpenWeatherMap API for maj
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/varshith5577/Real-Time-Data-Processing-System-for-Weather-Monitoring.git
-   cd weather-monitoring-system
+   cd Real-Time-Data-Processing-System-for-Weather-Monitoring
